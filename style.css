@@ -33,7 +33,7 @@ body::after
     width: 90%;
     height: 90%;
     background: linear-gradient(#ffffff,#da00ff);
-    clip-path: circle(22% at 50% 100%);
+    clip-path: circle(29% at 70% 90%);
 
 }
 .container
@@ -120,5 +120,5 @@ header{
     position: absolute;
     top: 12px;
     font-family: cursive
-        z-index:6;
+        z-index:2;
 }
