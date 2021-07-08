@@ -112,7 +112,7 @@ body::after
     background: rgba(255,255,255,0.05);
 }
 header{
-    color: #e5ff00;
+    color: #fff;
     font-size: 4vh;
     display: flex;
     align-items: center;
