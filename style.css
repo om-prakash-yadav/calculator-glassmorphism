@@ -33,7 +33,7 @@ body::after
     width: 90%;
     height: 90%;
     background: linear-gradient(#ffffff,#da00ff);
-    clip-path: circle(29% at 70% 90%);
+    clip-path: circle(12% at 70% 90%);
 
 }
 .container
@@ -119,6 +119,6 @@ header{
     justify-content: center;
     position: absolute;
     top: 12px;
-    font-family: cursive
-        z-index:2;
+    font-family: cursive;
+    z-index:10;
 }
