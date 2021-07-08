@@ -18,8 +18,8 @@ body::before
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     background: linear-gradient(#e91e63,#ffc107);
     clip-path: circle(22% at 30% 20%);
 
@@ -30,8 +30,8 @@ body::after
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 50%;
+    height: 50%;
     background: linear-gradient(#ffffff,#da00ff);
     clip-path: circle(22% at 70% 90%);
 
