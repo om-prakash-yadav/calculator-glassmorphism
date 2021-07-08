@@ -30,8 +30,8 @@ body::after
     position: absolute;
     top: 0;
     left: 0;
-    width: 50%;
-    height: 50%;
+    width: 70%;
+    height: 70%;
     background: linear-gradient(#ffffff,#da00ff);
     clip-path: circle(22% at 30% 20%);
 
