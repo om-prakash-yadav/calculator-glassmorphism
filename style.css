@@ -33,7 +33,7 @@ body::after
     width: 70%;
     height: 70%;
     background: linear-gradient(#ffffff,#da00ff);
-    clip-path: circle(22% at 30% 90%);
+    clip-path: circle(42% at 60% 90%);
 
 }
 .container
