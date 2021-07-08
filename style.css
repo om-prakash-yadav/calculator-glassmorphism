@@ -33,7 +33,7 @@ body::after
     width: 90%;
     height: 90%;
     background: linear-gradient(#ffffff,#da00ff);
-    clip-path: circle(22% at 80% 100%);
+    clip-path: circle(22% at 50% 100%);
 
 }
 .container
@@ -42,7 +42,7 @@ body::after
     background: rgba(255,255,255,0.05);
     border-radius: 6px;
     overflow: hidden;
-    z-index: 10;
+    z-index: 5;
     backdrop-filter: blur(10px);
     border-top: 1px solid rgba(255,255,255,0.2);
     border-left: 1px solid rgba(255,255,255,0.2);
@@ -120,5 +120,5 @@ header{
     position: absolute;
     top: 12px;
     font-family: cursive
-        z-index:1;
+        z-index:6;
 }
