@@ -119,5 +119,6 @@ header{
     justify-content: center;
     position: absolute;
     top: 12px;
-    font-family: cursive;
+    font-family: cursive
+        z-index:11;
 }
