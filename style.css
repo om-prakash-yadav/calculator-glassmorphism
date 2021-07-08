@@ -118,7 +118,6 @@ header{
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 16px;
-    font-family: cursive;
+    top: 20px;
     z-index:10;
 }
