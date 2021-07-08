@@ -113,12 +113,12 @@ body::after
 }
 header{
     color: #e5ff00;
-    font-size: 5vh;
+    font-size: 4vh;
     display: flex;
     align-items: center;
     justify-content: center;
     position: absolute;
-    top: 12px;
+    top: 16px;
     font-family: cursive;
     z-index:10;
 }
