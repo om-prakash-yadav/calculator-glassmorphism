@@ -9,12 +9,12 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 90vh;
-    background:url("WatchfulUnequaledElk-size_restricted.gif") ;
-    background-repeat: repeat;
+    background:url("bg.gif") ;
+    background-repeat: no-repeat;
     background-size: cover;
 
 }
-body::before
+/* body::before
 {
     content: '';
     position: absolute;
@@ -37,7 +37,7 @@ body::after
     background: linear-gradient(#ffffff,#ffbb00);
     clip-path: circle(15% at 100% 100%);
 
-}
+} */
 .container
 {
     position: relative;
