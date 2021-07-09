@@ -132,7 +132,7 @@ header{
     padding: 2.5px;
     border-start-end-radius: 2px;
     border-bottom-left-radius: 2px;
-    background: linear-gradient(#6c0da3,#941a94);
+    background: linear-gradient(#a10cf7,#fa07fa);
     -webkit-box-reflect:  below 0.1em linear-gradient(transparent,rgba(255, 255, 255, 0.226)) ;
 }
 .name:hover{
