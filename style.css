@@ -14,7 +14,7 @@ body{
     background-size: cover;
 
 }
-/* body::before
+body::before
 {
     content: '';
     position: absolute;
@@ -37,7 +37,7 @@ body::after
     background: linear-gradient(#ffffff,#ffbb00);
     clip-path: circle(15% at 100% 100%);
 
-} */
+}
 .container
 {
     position: relative;
